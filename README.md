@@ -1,2 +1,1 @@
-# justin-test
-Testing of Github Pages and custom domain.
+# Nothing to see here, testing ...
